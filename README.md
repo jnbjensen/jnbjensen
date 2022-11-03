@@ -7,6 +7,8 @@ I started to play around with programming in 2020 and finally took the decision 
 
 I spend most of my limited free time these days with my partner, golden retriever and baby girl, but I also like to unwind with PC and board games whenever I get the chance.
 
+### Other stuff
+
 Skillset ⭐
 HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
 
