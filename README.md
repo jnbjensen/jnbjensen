@@ -10,7 +10,7 @@ I spend most of my limited free time these days with my partner, golden retrieve
 ### Other stuff
 
 Skillset ⭐
-HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
+HTML | CSS | JavaScript (ES6) | React | Redux | APIs | Express | MongoDB | Node.js
 
 Portfolio 🎨
 https://jnbjensen.com
